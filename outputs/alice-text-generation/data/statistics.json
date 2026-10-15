@@ -1,0 +1,28 @@
+{
+  "total_words": 26615,
+  "vocabulary_size": 1291,
+  "splits": {
+    "train": {
+      "words": 21292,
+      "sequences": 21272,
+      "unknown_rate": 0.04804621636867523
+    },
+    "validation": {
+      "words": 2661,
+      "sequences": 2641,
+      "unknown_rate": 0.1168733537197113
+    },
+    "test": {
+      "words": 2662,
+      "sequences": 2642,
+      "unknown_rate": 0.12809917330741882
+    }
+  },
+  "split_boundaries": [
+    0,
+    21292,
+    23953,
+    26615
+  ],
+  "policy": "chronological split before windowing; training-only vocabulary"
+}

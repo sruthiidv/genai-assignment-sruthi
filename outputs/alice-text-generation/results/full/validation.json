@@ -1,0 +1,18 @@
+{
+  "unit_tests_passed": 3,
+  "smoke_run_completed": true,
+  "full_models": 4,
+  "samples": 108,
+  "sample_length_words": 100,
+  "all_experiment_combinations_present": true,
+  "saved_checkpoints_reproduce_test_metrics": true,
+  "diversity_metrics_recomputed": true,
+  "best_epochs_match_validation_histories": true,
+  "notebook_executed_fresh_kernel": true,
+  "notebook_code_cells": 6,
+  "notebook_errors": 0,
+  "readme_matches_metrics": true,
+  "plots_visually_inspected": true,
+  "submission_document_status": "Pending student name and registration number",
+  "repository_url": "https://github.com/sruthiidv/genai-assignment-sruthi"
+}
